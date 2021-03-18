@@ -1,0 +1,22 @@
+{
+  "name": "bokeh",
+  "version": "1.0.0",
+  "description": "## References",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjbultitude/bokeh.git"
+  },
+  "author": "Richard Bultitude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjbultitude/bokeh/issues"
+  },
+  "homepage": "https://github.com/rjbultitude/bokeh#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
